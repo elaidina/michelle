@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray =  [
     {
       name: '1',
-      img: 'What´s your name?'
+      img: 'kočka'
     },
     {
       name: '1',
-      img: "Ako sa voláš?"
+      img: "kotě"
     },
     {
       name: '2',
-      img: 'How are you?'
+      img: 'slepice'
     },
     {
       name: '2',
-      img: "Ako sa máš?"
+      img: "kuře"
     },
     {
       name: '3',
-      img: 'I´m fine.'
+      img: 'kůň'
     },
     {
       name: '3',
-      img: "Som v pohode."
+      img: "hříbě"
     },
     {
       name: '4',
-      img: 'What´s this?'
+      img: 'kráva'
     },
     {
       name: '4',
-      img: "Čo je toto?"
+      img: "tele"
     },
     {
       name: '5',
-      img: 'Where are you?'
+      img: 'ovce'
     },
     {
       name: '5',
-      img: "Kde si?"
+      img: "jehně"
     },
     {
       name: '6',
-      img: 'I am at home.'
+      img: 'koza'
     },
     {
       name: '6',
-      img: "Som doma."
+      img: "kůzle"
     },
     {
       name: '7',
-      img: 'Where are you going?'
+      img: 'husa'
     },
     {
       name: '7',
-      img: "Kam ideš?"
+      img: "housátko"
     },
     {
       name: '8',
-      img: 'I am so excited!'
+      img: 'kachna'
     },
     {
       name: '8',
-      img: "Som tak nadšená!"
+      img: "kačátko"
     },
     {
       name: '9',
-      img: 'How old are you?'
+      img: 'krůta'
     },
     {
       name: '9',
-      img: "Koľko máš rokov?"
+      img: "krůtě"
     },
     {
       name: '10',
-      img: "Mám 7 rokov"
+      img: "pes"
     },
     {
       name: '10',
-      img: 'I am 7 years old.'
+      img: 'štěně'
     },
     {
       name: '11',
-      img: 'Do you have a sister or brother?'
+      img: 'prase'
     },
     {
       name: '11',
-      img: "Máš sestru alebo brata?"
+      img: "sele"
     },
     {
       name: '12',
-      img: 'How is the weather today?'
+      img: 'králík'
     },
     {
       name: '12',
-      img: "Aké je dnes počasie?"
+      img: "králíče"
     }
   ]
 

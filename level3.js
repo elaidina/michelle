@@ -3,99 +3,99 @@
   const cardArray = [
     {
       name: '1',
-      img: 'Is that your bag?'
+      img: 'pošta'
     },
     {
       name: '1',
-      img: "To je tvoja taška?"
+      img: "dopis"
     },
     {
       name: '2',
-      img: 'What have you got in your hand?'
+      img: 'banka'
     },
     {
       name: '2',
-      img: "Čo to máš v ruke?"
+      img: "peníze"
     },
     {
       name: '3',
-      img: 'You can guess.'
+      img: 'knihovna'
     },
     {
       name: '3',
-      img: "Môžeš hádať."
+      img: "encyklopedie"
     },
     {
       name: '4',
-      img: 'Yes, it is mine.'
+      img: 'potraviny'
     },
     {
       name: '4',
-      img: "Áno, to je moje."
+      img: "máslo"
     },
     {
       name: '5',
-      img: 'This is my new bike.'
+      img: 'radnice'
     },
     {
       name: '5',
-      img: "Toto je môj nový bicykel."
+      img: "úředníci"
     },
     {
       name: '6',
-      img: 'Whose bike is that?'
+      img: 'ZOO'
     },
     {
       name: '6',
-      img: "Čí je to bicykel?"
+      img: "medvěd"
     },
     {
       name: '7',
-      img: 'It looks old.'
+      img: 'čerpací stanice'
     },
     {
       name: '7',
-      img: 'Vyzerá staro.'
+      img: 'benzín'
     },
     {
       name: '8',
-      img: 'How old do I look?'
+      img: 'kostel'
     },
     {
       name: '8',
-      img: "Ako staro vyzerám?"
+      img: "modlitba"
     },
     {
       name: '9',
-      img: 'You look like a child.'
+      img: 'hřbitov'
     },
     {
       name: '9',
-      img: 'Vyzeráš ako dieťa.'
+      img: 'pohřeb'
     },
     {
       name: '10',
-      img: 'That apple is red.'
+      img: 'restaurace'
     },
     {
       name: '10',
-      img: 'To jablko je červené.'
+      img: 'menu'
     },
     {
       name: '11',
-      img: 'What is your favourite colour?'
+      img: 'park'
     },
     {
       name: '11',
-      img: "Aká je tvoja obľúbená farba?"
+      img: "fontána"
     },
     {
       name: '12',
-      img: 'I like pink colour the most.'
+      img: 'kino'
     },
     {
       name: '12',
-      img: "Najviac mám rada ružovú."
+      img: "film"
     }
   ]
 

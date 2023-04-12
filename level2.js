@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'No, I haven´t'
+      img: 'kadeřník'
     },
     {
       name: '1',
-      img: "Nie, nemám."
+      img: "stříhá vlasy"
     },
     {
       name: '2',
-      img: 'The sun is shining and it´s warm.'
+      img: 'pekař'
     },
     {
       name: '2',
-      img: "Slnko svieti a je teplo."
+      img: "peče chleba"
     },
     {
       name: '3',
-      img: 'What would you like to do?'
+      img: 'optometrista'
     },
     {
       name: '3',
-      img: "Čo by si chcel robiť?"
+      img: "vyrábí brýle"
     },
     {
       name: '4',
-      img: 'I would like to go out.'
+      img: 'pediatr'
     },
     {
       name: '4',
-      img: "Chcel by som ísť von."
+      img: "léčí děti"
     },
     {
       name: '5',
-      img: 'Excuse me, who are you?'
+      img: 'programátor'
     },
     {
       name: '5',
-      img: "Prepáčte, kto ste?"
+      img: "tvoří počítačové aplikace a hry "
     },
     {
       name: '6',
-      img: 'Hello, my name is Tom.'
+      img: 'listonoš'
     },
     {
       name: '6',
-      img: "Ahoj, volám sa Tom."
+      img: "nosí poštu"
     },
     {
       name: '7',
-      img: 'Is Tom a good friend?'
+      img: 'prodavač'
     },
     {
       name: '7',
-      img: "Je Tom dobrý kamarát?"
+      img: "nabízí zboží v obchodě"
     },
     {
       name: '8',
-      img: "No, he isn´t."
+      img: "policista"
     },
     {
       name: '8',
-      img: 'Nie. Nie je.'
+      img: 'hlídá dodržování zákonů'
     },
     {
       name: '9',
-      img: 'That tall boy is my friend.'
+      img: 'farmář'
     },
     {
       name: '9',
-      img: "Ten vysoký chlapec je môj priateľ."
+      img: "chová zvířata"
     },
     {
       name: '10',
-      img: 'Come here and sit down.'
+      img: 'malíř'
     },
     {
       name: '10',
-      img: "Poď sem a sadni si."
+      img: "maluje obrazy"
     },
     {
       name: '11',
-      img: 'Michelle, lend me your pen, please.'
+      img: 'dělník'
     },
     {
       name: '11',
-      img: "Michelle, požičaj mi svoje pero, prosím."
+      img: "pracuje ve fabrice"
     },
     {
       name: '12',
-      img: 'Let´s play with a ball.'
+      img: 'právník'
     },
     {
       name: '12',
-      img: "Poďme sa hrať s loptou."
+      img: "řeší spory mezi lidmi"
     }
   ]
 
