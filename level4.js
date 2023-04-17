@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'The bottle is empty.'
+      img: 'srdce'
     },
     {
       name: '1',
-      img: "Tá fľaša je prázdna."
+      img: "krev"
     },
     {
       name: '2',
-      img: 'Do you have any bottle?'
+      img: 'plíce'
     },
     {
       name: '2',
-      img: "Máš nejakú fľašu?"
+      img: "kyslík"
     },
     {
       name: '3',
-      img: 'No, I don´t have any bottle.'
+      img: 'ledviny'
     },
     {
       name: '3',
-      img: 'Nie, nemám žiadnu fľašu.'
+      img: 'moč'
     },
     {
       name: '4',
-      img: 'I have to go home.'
+      img: 'kostra'
     },
     {
       name: '4',
-      img: "Musím ísť domov."
+      img: "ochrana"
     },
     {
       name: '5',
-      img: 'Why do you have to go?'
+      img: 'kůže'
     },
     {
       name: '5',
-      img: "Prečo musíš ísť?"
+      img: "dotek"
     },
     {
       name: '6',
-      img: 'I´m very tired.'
+      img: 'mozek'
     },
     {
       name: '6',
-      img: "Som veľmi unavený."
+      img: "myšlenka"
     },
     {
       name: '7',
-      img: 'Where is your car?'
+      img: 'oko'
     },
     {
       name: '7',
-      img: "Kde máš auto?"
+      img: "obraz"
     },
     {
       name: '8',
-      img: 'I don´t remember.'
+      img: 'sval'
     },
     {
       name: '8',
-      img: "Nepamätám si."
+      img: "běhání"
     },
     {
       name: '9',
-      img: 'I´ve got a present for you.'
+      img: 'ucho'
     },
     {
       name: '9',
-      img: "Mám pre teba darček."
+      img: "písnička"
     },
     {
       name: '10',
-      img: "Chcem to vidieť."
+      img: "žaludek"
     },
     {
       name: '10',
-      img: 'I want to see it.'
+      img: 'rohlík'
     },
     {
       name: '11',
-      img: 'Je to veľké a krásne.'
+      img: 'nos'
     },
     {
       name: '11',
-      img: 'It ´s big and beautiful.'
+      img: 'smrad'
     },
     {
       name: '12',
-      img: 'Give me the box.'
+      img: 'děloha'
     },
     {
       name: '12',
-      img: 'Daj mi tú krabicu.'
+      img: 'miminko'
     }
   ]
 

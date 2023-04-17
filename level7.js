@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'Stick the eyes, the nose and the mouth on the mask.'
+      img: 'modrá + žlutá'
     },
     {
       name: '1',
-      img: 'Prilepte oči, nos a ústa na masku.'
+      img: 'zelená'
     },
     {
       name: '2',
-      img: 'My dress is too short and wide.'
+      img: 'bílá + červená'
     },
     {
       name: '2',
-      img: 'Moje šaty sú príliš krátke a široké.'
+      img: 'růžová'
     },
     {
       name: '3',
-      img: 'I´m standing in the middle of a circle.'
+      img: 'bílá + černá'
     },
     {
       name: '3',
-      img: 'Stojím uprostred kruhu.'
+      img: 'šedá'
     },
     {
       name: '4',
-      img: 'Put your shoes on.'
+      img: 'červená + modrá'
     },
     {
       name: '4',
-      img: 'Daj si topánky.'
+      img: 'fialová'
     },
     {
       name: '5',
-      img: 'Take care of you.'
+      img: 'žlutá + zelená'
     },
     {
       name: '5',
-      img: 'Dávaj si na seba pozor.'
+      img: 'limetková'
     },
     {
       name: '6',
-      img: 'Do you live in a town or a village?'
+      img: 'zelená + modrá'
     },
     {
       name: '6',
-      img: 'Bývate v meste alebo na dedine?'
+      img: 'tyrkysová'
     },
     {
       name: '7',
-      img: 'What can you see?'
+      img: 'žlutá + červená'
     },
     {
       name: '7',
-      img: 'Čo vidíš?'
+      img: 'oranžová'
     },
     {
       name: '8',
-      img: 'I can see a duckling, some chicks, a dog and a cat.'
+      img: 'oranžová + zelená'
     },
     {
       name: '8',
-      img: 'Vidím káčatko, nejaké kurčatá, psa a mačku.'
+      img: 'hnedá'
     },
     {
       name: '9',
-      img: 'What colour is the cat?'
+      img: 'oranžová + bílá'
     },
     {
       name: '9',
-      img: 'Akej farby je tá mačka?'
+      img: 'tělová'
     },
     {
       name: '10',
-      img: 'The cat is black.'
+      img: 'hnědá + červená'
     },
     {
       name: '10',
-      img: 'Tá mačka je čierna.'
+      img: 'bordó'
     },
     {
       name: '11',
-      img: 'I like chocolate ice-cream.'
+      img: 'zelená + bílá'
     },
     {
       name: '11',
-      img: 'Mám rád čokoládovú zmrzlinu.'
+      img: 'pistáciová'
     },
     {
       name: '12',
-      img: 'I like listening to stories.'
+      img: 'červená + růžová'
     },
     {
       name: '12',
-      img: 'Rád počúvam príbehy.'
+      img: 'fuchsiová'
     }
   ]
 

@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'Don´t stand behind me.'
+      img: 'dcera'
     },
     {
       name: '1',
-      img: "Nestoj za mnou."
+      img: "moje díťe"
     },
     {
       name: '2',
-      img: 'I´m trying not to do that.'
+      img: 'sestřenice'
     },
     {
       name: '2',
-      img: "Snažím sa to nerobiť."
+      img: "dcera mé tety"
     },
     {
       name: '3',
-      img: 'We are learning to ride a bike.'
+      img: 'tchýně'
     },
     {
       name: '3',
-      img: "Učíme sa bicyklovať."
+      img: "manželova máma"
     },
     {
       name: '4',
-      img: 'Why are you crying?'
+      img: 'snacha'
     },
     {
       name: '4',
-      img: 'Prečo plačeš?'
+      img: 'nevěsta mého syna'
     },
     {
       name: '5',
-      img: 'Because I broke my leg.'
+      img: 'zeť'
     },
     {
       name: '5',
-      img: 'Lebo som si zlomil nohu.'
+      img: 'manžel mojí dcery'
     },
     {
       name: '6',
-      img: 'And I also broke my car.'
+      img: 'švagrová'
     },
     {
       name: '6',
-      img: 'A tiež som si rozbil auto.'
+      img: 'manželka mého bratra'
     },
     {
       name: '7',
-      img: 'Can I help you repair it?'
+      img: 'teta'
     },
     {
       name: '7',
-      img: 'Môžem ti pomôcť to opraviť?'
+      img: 'sestra mojí mámy'
     },
     {
       name: '8',
-      img: 'Here are the keys.'
+      img: 'babička'
     },
     {
       name: '8',
-      img: 'Tu sú kľúče.'
+      img: 'máma mojí mámy'
     },
     {
       name: '9',
-      img: 'Don´t break the rules.'
+      img: 'vnuk'
     },
     {
       name: '9',
-      img: 'Neporušuj pravidlá.'
+      img: 'syn mojí dcery'
     },
     {
       name: '10',
-      img: "I don´t go to school but I can read and write."
+      img: "neteř"
     },
     {
       name: '10',
-      img: 'Nechodím do školy, ale viem čítať a písať.'
+      img: 'dcera mé sestry'
     },
     {
       name: '11',
-      img: "I can´t lift this stone."
+      img: "synovec"
     },
     {
       name: '11',
-      img: 'Nemôžem zdvihnúť tento kameň.'
+      img: 'syn mého bratra'
     },
     {
       name: '12',
-      img: 'The stone is too heavy.'
+      img: 'pradědeček'
     },
     {
       name: '12',
-      img: 'Kameň je príliš ťažký.'
+      img: 'táta mého dědy'
     }
   ]
 

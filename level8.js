@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'I want to become a teacher.'
+      img: '1 litr'
     },
     {
       name: '1',
-      img: 'Chcem sa stať učiteľkou.'
+      img: '1000 ml'
     },
     {
       name: '2',
-      img: 'I want to teach children.'
+      img: '1 metr'
     },
     {
       name: '2',
-      img: 'Chcem učiť deti.'
+      img: '100 cm'
     },
     {
       name: '3',
-      img: 'She wants to be a doctor.'
+      img: '1 kilometr'
     },
     {
       name: '3',
-      img: 'Ona chce byť lekárkou.'
+      img: '1000 metrů'
     },
     {
       name: '4',
-      img: 'Her dream is to cure people.'
+      img: '1 kilogram'
     },
     {
       name: '4',
-      img: 'Jej snom je liečiť ľudí.'
+      img: '1000 gramů'
     },
     {
       name: '5',
-      img: 'Can you drive a car?'
+      img: '1 euro'
     },
     {
       name: '5',
-      img: 'Vieš šoférovať?'
+      img: '100 centů'
     },
     {
       name: '6',
-      img: 'Yes, I am a good driver.'
+      img: '1 koruna'
     },
     {
       name: '6',
-      img: 'Áno, som dobrý vodič.'
+      img: '100 halířů'
     },
     {
       name: '7',
-      img: 'How many cars have you got?'
+      img: '100 stupňů Celsia'
     },
     {
       name: '7',
-      img: "Koľko máš áut?"
+      img: "bod varu"
     },
     {
       name: '8',
-      img: 'I have two cars and three bicycles.'
+      img: '0 stupňů Celsia'
     },
     {
       name: '8',
-      img: "Mám dve autá a tri bicykle."
+      img: "bod mrazu"
     },
     {
       name: '9',
-      img: 'Come and play cards with me.'
+      img: '36,6°C '
     },
     {
       name: '9',
-      img: 'Poď si so mnou zahrať karty.'
+      img: 'teplota těla'
     },
     {
       name: '10',
-      img: 'I would rather play basketball.'
+      img: '90 °'
     },
     {
       name: '10',
-      img: 'Radšej by som hral basketbal.'
+      img: 'pravý úhel'
     },
     {
       name: '11',
-      img: 'Are you good at playing football?'
+      img: '30 °'
     },
     {
       name: '11',
-      img: 'Vieš hrať futbal dobre?'
+      img: 'ostrý úhel'
     },
     {
       name: '12',
-      img: 'Not at all.'
+      img: '120 °'
     },
     {
       name: '12',
-      img: 'Vôbec nie.'
+      img: 'tupý úhel'
     }
   ]
   cardArray.sort(() => 0.5 - Math.random())

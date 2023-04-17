@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'Go to the door.'
+      img: 'chrumka'
     },
     {
       name: '1',
-      img: "Choď k dverám."
+      img: "Martina"
     },
     {
       name: '2',
-      img: 'Can you shut the door?'
+      img: 'energia'
     },
     {
       name: '2',
-      img: "Môžeš zavrieť dvere?"
+      img: "Beata"
     },
     {
       name: '3',
-      img: 'What are you doing right now?'
+      img: 'Chichotka'
     },
     {
       name: '3',
-      img: "Čo práve robíš?"
+      img: "Priscila"
     },
     {
       name: '4',
-      img: 'I´m drawing a flower.'
+      img: 'bonboniera'
     },
     {
       name: '4',
-      img: "Kreslím kvet."
+      img: "Ema"
     },
     {
       name: '5',
-      img: 'I am painting with my new water colours.'
+      img: 'Klobaska'
     },
     {
       name: '5',
-      img: "Maľujem svojimi novými vodovými farbami."
+      img: "Denisa"
     },
     {
       name: '6',
-      img: 'You have to eat your breakfast.'
+      img: 'Prachovka'
     },
     {
       name: '6',
-      img: "Musíš sa naraňajkovať."
+      img: "Diana"
     },
     {
       name: '7',
-      img: 'What do we have for breakfast?'
+      img: 'Zuza'
     },
     {
       name: '7',
-      img: "Čo máme na raňajky?"
+      img: "Venezuela"
     },
     {
       name: '8',
-      img: 'There is milk, bread and butter.'
+      img: 'Livia'
     },
     {
       name: '8',
-      img: "Je tam mlieko, chlieb a maslo."
+      img: "okiadzačka"
     },
     {
       name: '9',
-      img: 'I don´t want to drink milk.'
+      img: 'speváčka'
     },
     {
       name: '9',
-      img: "Nechcem piť mlieko."
+      img: "Katka"
     },
     {
       name: '10',
-      img: 'What would you like to drink?'
+      img: 'potetovana'
     },
     {
       name: '10',
-      img: "Čo si dáte na pitie?"
+      img: "Tereza"
     },
     {
       name: '11',
-      img: 'I am not thirsty anymore.'
+      img: 'Niky'
     },
     {
       name: '11',
-      img: 'Už nie som smädný.'
+      img: 'maliarka'
     },
     {
       name: '12',
-      img: 'I´m looking for my wallet.'
+      img: 'Petrana'
     },
     {
       name: '12',
-      img: "Hľadám svoju peňaženku."
+      img: "youtuberka."
     }
   ]
   cardArray.sort(() => 0.5 - Math.random())

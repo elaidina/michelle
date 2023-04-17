@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'How can I help you?'
+      img: 'Cipísek'
     },
     {
       name: '1',
-      img: "Ako ti môžem pomôcť?"
+      img: "Václav Čtvrtek"
     },
     {
       name: '2',
-      img: 'Can you have a look on the table?'
+      img: 'Božena Němcová'
     },
     {
       name: '2',
-      img: "Môžeš sa pozrieť na stôl?"
+      img: "Babička"
     },
     {
       name: '3',
-      img: 'It was under the table.'
+      img: 'Mach a Šebestová'
     },
     {
       name: '3',
-      img: 'Bolo to pod stolom.'
+      img: 'Adolf Born'
     },
     {
       name: '4',
-      img: 'I thought it was on the cupboard or near the chair.'
+      img: 'Karel Čapek'
     },
     {
       name: '4',
-      img: 'Myslel som, že je to na skrini alebo blízko stoličky.'
+      img: 'Dášenka'
     },
     {
       name: '5',
-      img: 'I´m building a lego car.'
+      img: 'Slabikář'
     },
     {
       name: '5',
-      img: "Staviam legové auto."
+      img: "Helena Zmatlíková"
     },
     {
       name: '6',
-      img: 'Look at this small picture.'
+      img: 'Malá čarodejnice'
     },
     {
       name: '6',
-      img: 'Pozri sa na tento malý obrázok.'
+      img: 'Zdeněk Smetana'
     },
     {
       name: '7',
-      img: 'There are many strawberries, cherries, raspberries and grapes.'
+      img: 'O chytré kmotře lišce'
     },
     {
       name: '7',
-      img: 'Je tam veľa jahôd, čerešní, malín a hrozna.'
+      img: 'Jozef Lada'
     },
     {
       name: '8',
-      img: 'The pears and apricots are not ripe yet.'
+      img: 'Krteček'
     },
     {
       name: '8',
-      img: 'Hrušky a marhule ešte nie sú zrelé.'
+      img: 'Zdeněk Miller'
     },
     {
       name: '9',
-      img: 'Here´s your plate, fork, cup and spoon.'
+      img: 'Romeo a Julie'
     },
     {
       name: '9',
-      img: 'Tu máš tanier, vidličku, pohár a lyžicu.'
+      img: 'Wiliam Shakespeare'
     },
     {
       name: '10',
-      img: 'Is this your bag or not?'
+      img: 'Harry Potter'
     },
     {
       name: '10',
-      img: 'Je to tvoja taška alebo nie?'
+      img: 'J.K. Rowlingová'
     },
     {
       name: '11',
-      img: 'My doll has got big blue eyes and long hair.'
+      img: 'Astrid Lindgrenová'
     },
     {
       name: '11',
-      img: 'Moja bábika má veľké modré oči a dlhé vlasy.'
+      img: 'Pipi, dlouhá punčocha'
     },
     {
       name: '12',
-      img: 'Let´s take scissors and cut out a heart.'
+      img: 'Lucy Maud Montgomeryová'
     },
     {
       name: '12',
-      img: "Vezmime si nožnice a vystrihneme srdce."
+      img: "Anna ze Zeleného domu"
     }
   ]
 
