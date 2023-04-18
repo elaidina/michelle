@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'hnedá'
+      img: 'hnědá'
     },
     {
       name: '9',

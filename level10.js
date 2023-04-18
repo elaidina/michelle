@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'Drawing is difficult.'
+      img: 'dřevo'
     },
     {
       name: '1',
-      img: 'Kreslenie je ťažké.'
+      img: 'kniha'
     },
     {
       name: '2',
-      img: 'How do you build a house?'
+      img: 'plast'
     },
     {
       name: '2',
-      img: 'Ako staviaš dom?'
+      img: 'lego'
     },
     {
       name: '3',
-      img: 'The house consists of walls, a roof, windows, a chimney, a fence and a door.'
+      img: 'železo'
     },
     {
       name: '3',
-      img: 'Dom sa skladá zo stien, strechy, okien, komína, plotu a dverí.'
+      img: 'nůžky'
     },
     {
       name: '4',
-      img: 'The blue ball is bigger than the red ball.'
+      img: 'sklo'
     },
     {
       name: '4',
-      img: 'Modrá guľa je väčšia ako červená guľa.'
+      img: 'sklenice'
     },
     {
       name: '5',
-      img: 'Which ball is the biggest?'
+      img: 'bavlna'
     },
     {
       name: '5',
-      img: 'Ktorá lopta je najväčšia?'
+      img: 'tričko'
     },
     {
       name: '6',
-      img: 'I would like to learn an English song.'
+      img: 'guma'
     },
     {
       name: '6',
-      img: 'Rád by som sa naučil anglickú pesničku.'
+      img: 'kolo'
     },
     {
       name: '7',
-      img: 'We can call Mary.'
+      img: 'uhlík'
     },
     {
       name: '7',
-      img: 'Môžeme zavolať Mary.'
+      img: 'tuha'
     },
     {
       name: '8',
-      img: "She´s a very good singer."
+      img: "kakao"
     },
     {
       name: '8',
-      img: 'Je to veľmi dobrá speváčka.'
+      img: 'čokoláda'
     },
     {
       name: '9',
-      img: 'Listen, do you know this song?'
+      img: 'obilí'
     },
     {
       name: '9',
-      img: 'Počuj, poznáš túto pesničku?'
+      img: 'chléb'
     },
     {
       name: '10',
-      img: 'There is a brilliant book on the shelf.'
+      img: 'mléko'
     },
     {
       name: '10',
-      img: 'Na poličke je skvelá kniha.'
+      img: 'sýr'
     },
     {
       name: '11',
-      img: 'I often read this book.'
+      img: 'hliník'
     },
     {
       name: '11',
-      img: 'Často čítam túto knihu.'
+      img: 'alobal'
     },
     {
       name: '12',
-      img: 'I am too short to reach the book on the shelf.'
+      img: 'zlato'
     },
     {
       name: '12',
-      img: 'Som príliš nízky na to, aby som dosiahol na knihu na poličke.'
+      img: 'šperky'
     }
   ]
 

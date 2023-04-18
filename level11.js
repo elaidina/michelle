@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'I am taller and bigger than him.'
+      img: 'borelióza'
     },
     {
       name: '1',
-      img: 'Som vyšší a väčší ako on.'
+      img: 'klíště'
     },
     {
       name: '2',
-      img: 'But he is weaker than me.'
+      img: 'infarkt'
     },
     {
       name: '2',
-      img: 'Ale on je slabší než ja.'
+      img: 'srdce'
     },
     {
       name: '3',
-      img: 'Don ´t exaggerate.'
+      img: 'mrtvice'
     },
     {
       name: '3',
-      img: 'Nepreháňaj.'
+      img: 'mozek'
     },
     {
       name: '4',
-      img: 'What will be the weather like tomorrow?'
+      img: 'nos'
     },
     {
       name: '4',
-      img: 'Aké bude zajtra počasie?'
+      img: 'rýma'
     },
     {
       name: '5',
-      img: 'It should rain and be cold.'
+      img: 'horečka'
     },
     {
       name: '5',
-      img: 'Malo by pršať a byť zima.'
+      img: 'zvýšená teplota'
     },
     {
       name: '6',
-      img: 'Shall I take an umbrella?'
+      img: 'bílé krvinky'
     },
     {
       name: '6',
-      img: 'Mám si zobrať dáždnik?'
+      img: 'leukémie'
     },
     {
       name: '7',
-      img: 'Please, don´t forget to take an umbrella or a raincoat.'
+      img: 'mateřská znaménka'
     },
     {
       name: '7',
-      img: 'Prosím, nezabudni si zobrať dáždnik alebo pršiplášť.'
+      img: 'melanom'
     },
     {
       name: '8',
-      img: 'Drink a lot of tea when you´re cold.'
+      img: 'cukr'
     },
     {
       name: '8',
-      img: 'Pi veľa čaju, keď ti je zima.'
+      img: 'zubní kaz'
     },
     {
       name: '9',
-      img: 'Are you feeling sick?'
+      img: 'kost'
     },
     {
       name: '9',
-      img: 'Je ti zle?'
+      img: 'zlomenina'
     },
     {
       name: '10',
-      img: 'I´ve been ill for two weeks.'
+      img: 'COVID 19'
     },
     {
       name: '10',
-      img: 'Bol som chorý dva týždne.'
+      img: 'plíce'
     },
     {
       name: '11',
-      img: 'Dry your hair with this towel.'
+      img: 'dřevo'
     },
     {
       name: '11',
-      img: 'Vysušte si vlasy týmto uterákom.'
+      img: 'tříska'
     },
     {
       name: '12',
-      img: 'You need to keep warm.'
+      img: 'neštovice'
     },
     {
       name: '12',
-      img: 'Musíš sa udržiavať v teple.'
+      img: 'pupínky'
     }
   ]
 
